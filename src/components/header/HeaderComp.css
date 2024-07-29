@@ -1,0 +1,14 @@
+.sitename {
+    background: linear-gradient(to right, black, blue);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: left;
+    display: inline-block;
+    margin-left: 1rem;
+}
+/* .active{
+    background-color: rgb(70, 108, 233);
+    border-radius: 5px;
+} */
+
+ 
